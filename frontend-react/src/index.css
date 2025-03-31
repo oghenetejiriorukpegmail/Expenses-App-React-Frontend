@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any custom base styles or component overrides here */
+body {
+  /* Example: Add a default background or font if needed */
+  /* font-family: 'Inter', sans-serif; /* From original CSS */
+}
